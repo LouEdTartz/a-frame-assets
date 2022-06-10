@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cherry
+* source:	https://sketchfab.com/3d-models/cherry-c6efd7a599514ad28d61e826ae88ac89
+* author:	neutralize (https://sketchfab.com/neutralize)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cherry" (https://sketchfab.com/3d-models/cherry-c6efd7a599514ad28d61e826ae88ac89) by neutralize (https://sketchfab.com/neutralize) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
